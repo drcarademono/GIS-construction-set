@@ -67,9 +67,9 @@ Next we're going to place a prefab! Click on the Kalunnunu Docks layer you creat
 
 *Name* can be set to anything (I went with "Docks"), while *type* has three potential settings in World of Daggerfall:
 
-*type* 0 smooths the terrain underneath the prefab
-*type* 1 does not smooth the terrain underneath the prefab
-*type* 2 instances automatically snap to the coastline. Usually used for docks. 
+* *type* 0 smooths the terrain underneath the prefab
+* *type* 1 does not smooth the terrain underneath the prefab
+* *type* 2 instances automatically snap to the coastline. Usually used for docks. 
 
 *Note*: World of Daggerfall instances can sometimes be placed on top of roads or towns. In order to prevent this from occurring, you can *prune* your CSV files in Kab's Location Loader using the LLPruneInvalidInstance console command. See https://github.com/KABoissonneault/DFU-LocationLoader for more on this.
 
