@@ -9,23 +9,25 @@ Daggerfall is really big. Far, far too big to work with conventional modding con
 
 This post presents a QGIS (www.qgis.org) project designed to help modders place location prefabs that load into DF Unity with Kamer's World of Daggerfall. Using the Construction Set, modders can individually hand-place prefabs with considerable precision, or they can use QGIS's random and algorithmic point placement functions to place prefabs by the dozens, hundreds, thousands, or tens of thousands.
 
-The project currently contains four base maps:
+The project currently contains the following base maps:
 1. Iliac Bay Base Map: The Iliac Bay MapPixel map by Meritamas, included in BadLuckBurt's world data editor (*https://github.com/BadLuckBurt/dfu-worlddata-editor*).
 2. Paper Map: A beautiful Iliac Bay paper map created by Rubikia (https://www.reddit.com/r/Daggerfall/comments/iruws1/i_made_a_map_of_the_iliac_bay/)
 3. Travel Map: The in-game travel map.
 4. Vanilla Height Map: The height map for vanilla Daggerfall.
+5. Interesting Eroded Terrain (IET) height and derivative maps by Freak2121 (https://www.nexusmods.com/daggerfallunity/mods/193)
 
-It also currently includes seven reference layers:
-5. Water: A simple vector land and water map.
-6. Regions: A vector map of the Iliac Bay's regions. This can be used to place points within specific regions.
-7. Locations: A layer map containing all 15,000+ points of Daggerfall's locations.
-8. Basic Roads: A raster map of Hazelnut's Basic Roads network.
-9. Roadside - Roads & Tracks: A vector map of the Basic Roads network divided by regions, with polygons extending about a map pixel from the roads. You can use this to place points near roads -- for example, bandit camps and Imperial watch towers placed in this layer will be visible from the road.
-10. Roadside - Roads: Like the above, but *only* includes roads, not tracks. You might place Imperial watch towers here.
-11. Roadside - Tracks: Like the above, but *only* includes tracks, not roads. You might place bandit camps here.
+It also currently includes several reference and placement layers:
+1. Land / Water: Simple vector land and water maps.
+2. Regions: A vector map of the Iliac Bay's regions. This can be used to place points within specific regions.
+3. Locations: A layer map containing all 15,000+ points of Daggerfall's locations.
+4. Basic Roads: A raster map of Hazelnut's Basic Roads network.
+5. Roadside: A vector map of the Basic Roads network divided by regions, with polygons extending about a map pixel from the roads. You can use this to place points near roads -- for example, bandit camps and Imperial watch towers placed in this layer will be visible from the road.
+6. Roadside - Roads: Like the above, but *only* includes roads, not tracks. You might place Imperial watch towers here.
+7. Roadside - Tracks: Like the above, but *only* includes tracks, not roads. You might place bandit camps here.
+8. World of Daggerfall: These maps show where bandits, docks, guardtowers, ruins, shrines, rocks, and mountains are placed in the World of Daggerfall mod. 
 
 Finally and most importantly, it includes:
-12. Prefab Placer: All points created in or copied to this layer will have their locational fields autopopulated with values that can be read directly by the LocationLoader or World of Daggerfall mods. This includes the *worldX*, *worldY*, *terrainX*, and *terrainY* coordinates. The layer also calculates a unique *locationID* for every possible point by concatenating its coordinate values. You will need to enter in only *name* (which does not need to be unique), *prefab*, and *type* (more on this below). These can be entered either when adding points individually, in QGIS's attribute table, or in a spreadsheet program after export.
+1. Prefab Placer: All points created in or copied to this layer will have their locational fields autopopulated with values that can be read directly by the LocationLoader or World of Daggerfall mods. This includes the *worldX*, *worldY*, *terrainX*, and *terrainY* coordinates. The layer also calculates a unique *locationID* for every possible point by concatenating its coordinate values. You will need to enter in only *name* (which does not need to be unique), *prefab*, and *type* (more on this below). These can be entered either when adding points individually, in QGIS's attribute table, or in a spreadsheet program after export.
 
 You can download all the project files from my GitHub: https://github.com/drcarademono/GIS-construction-set. It requires QGIS (https://qgis.org/en/site/forusers/download.html), and Kab's Location Loader / World of Daggerfall (https://forums.dfworkshop.net/viewtopic.php?t=5304).
 
