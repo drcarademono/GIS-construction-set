@@ -77,7 +77,7 @@ Because we don't want the ruins to get buried or float on a hillside, we will ne
 
 ![alt text](https://imgur.com/gvuVCrc.png)
 
-Now that we've placed a prefab, it's a good moment to check out the Kalunnunu Docks layer's attribute table. Right-click on the layer and select Open Attribute Table. If everything went right, you'll observe that *worldX*, *worldY*, *terrainX*, *terrainY*, *region*, and *locationID* have all been autopopulated with the correct values:
+Now that we've placed a prefab, it's a good moment to check out the Prefab Placer layer's attribute table. Right-click on the layer and select Open Attribute Table. If everything went right, you'll observe that *worldX*, *worldY*, *terrainX*, *terrainY*, *region*, and *locationID* have all been autopopulated with the correct values:
 
 ![alt text](https://imgur.com/yN05st9.png)
 
