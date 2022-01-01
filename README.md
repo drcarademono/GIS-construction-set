@@ -47,25 +47,25 @@ In order to actually get the prefabs into the game, you just drop your CSV file 
 Now for some more specific tutorials on how to use this tool.
 
 
-## Tutorial #1: Adding a dock to Kalunnunu
+## Tutorial #1: Adding some ruins to Bubissidata
 
-We'll start with an easy project: adding a single dock prefab to the north side of Kalunnunu.
+We'll start with an easy project: adding a single ruins prefab to the path east side of Bubissidata.
 
 Let's start up QGIS and open *GIS Construction Set.qgz* to get started on our first project. If all went well, you should be greeted with something like this: 
 
-![alt text](https://imgur.com/cmsvTJt.png)
+![alt text](https://imgur.com/aGww2fb.png)
 
-See the Layers list in the lower left corner? It should have the Prefab Placer layer right at the top. However, we don't want to work directly with that layer -- let's make a copy of it to work with instead. Right-click on Prefab Placer, select Duplicate Layer, activate the new layer by clicking on the checkbox to its left, drag it to the top, and rename it something like "Kalunnunu Docks."
+See the Layers list in the lower left corner? It should have the Prefab Placer layer right at the top.
 
-Now let's go find Kalunnunu. It's in the Lainlyn region. If you're not sure where that is, activate the Regions layer for a moment and it will superimpose the region borders on top of the base map. Kalunnunu is right on the coast:
+Now let's go find Bubissidata. It's on an island in the Sentinel region. If you're not sure where that is, activate the Regions layer for a moment and it will superimpose the region borders on top of the base map. Bubissidata is just north of the capital:
 
-![alt text](https://imgur.com/u90Ay6Q.png)
+![alt text](https://imgur.com/I1vq9wo.png)
 
-Next we're going to place a prefab! Click on the Kalunnunu Docks layer you created, and select Toggle Editing on the top toolbar (it's the pencil icon). Now select Add Point Feature (the three dots icon) and your mouse should change to a crosshairs. Let's try placing the dock *just* north of Kalunnunu. Click on the map and a little window will pop up, asking us to us fill in various attributes. 
+Next we're going to place a prefab! Click on the Prefab Placer layer and select Toggle Editing on the top toolbar (it's the pencil icon). Now select Add Point Feature (the three dots icon) and your mouse should change to a crosshairs. Let's try placing the ruins just off the Basic Roads trail to the east of Bubissidata. Click on the map and a little window will pop up, asking us to us fill in various attributes. 
 
-![alt text](https://imgur.com/7u04Zh0.png)
+![alt text](https://imgur.com/zQ9u6xJ.png.png)
 
-*Name* can be set to anything (I went with "Docks"), while *type* has three potential settings in World of Daggerfall:
+*Name* can be set to anything (I went with "Ruins"), while *type* has three potential settings in World of Daggerfall:
 
 * *type* 0 smooths the terrain underneath the prefab
 * *type* 1 does not smooth the terrain underneath the prefab
@@ -73,19 +73,21 @@ Next we're going to place a prefab! Click on the Kalunnunu Docks layer you creat
 
 *Note*: World of Daggerfall instances can sometimes be placed on top of roads or towns. In order to prevent this from occurring, you can *prune* your CSV files in Kab's Location Loader using the LLPruneInvalidInstance console command. See https://github.com/KABoissonneault/DFU-LocationLoader for more on this.
 
-Because we want the Kalunnunu docks to snap to the coastline, we will need to set *type* to 2. Finally, the *prefab* field is where we specify which specific prefab we want to place. Let's go with WOD_Dock_Lighthouse_Medium from the World of Daggerfall mod. Click OK. There's now a pink prefab symbol where we placed the dock.
+Because we don't want the ruins to get buried or float on a hillside, we will need to smooth the terrain. Set *type* to 0. T the *prefab* field is where we specify which specific prefab we want to place. Let's go with WOD_Ruins_01 from the World of Daggerfall mod. Finally, the *rotYaxis* field allows us to rotate the prefab -- we can leave that blank for now. Click OK. There's now a pink prefab symbol where we placed the ruins.
 
-![alt text](https://imgur.com/6cPw5XI.png)
+![alt text](https://imgur.com/gvuVCrc.png)
 
-Now that we've placed a prefab, it's a good moment to check out the Kalunnunu Docks layer's attribute table. Right-click on the layer and select Open Attribute Table. If everything went right, you'll observe that *worldX*, *worldY*, *terrainX*, *terrainY*, and *locationID* have all been autopopulated with the correct values:
+Now that we've placed a prefab, it's a good moment to check out the Kalunnunu Docks layer's attribute table. Right-click on the layer and select Open Attribute Table. If everything went right, you'll observe that *worldX*, *worldY*, *terrainX*, *terrainY*, *region*, and *locationID* have all been autopopulated with the correct values:
 
-![alt text](https://imgur.com/akbiEDJ.png)
+![alt text](https://imgur.com/yN05st9.png)
 
-Click Toggle Editing again to turn off editing and save your changes to the layer. We're ready to export our new docks to a CSV file. Right-click Kalunnunu Docks and select Export -> Save Features As... Change format to Comma Separated Values [CSV], give the file a name, and hit OK. You can close QGIS now, saving your work first, of course.
+*Note*: The *gisX* and *gisY* fields can be used to reimport CSV files into the GIS CK.
 
-![alt text](https://imgur.com/tcnvKkq.png)
+Click Toggle Editing again to turn off editing and save your changes to the layer. We're ready to export our new docks to a CSV file. Right-click the Prefab Placer and select Export -> Save Features As... Change format to Comma Separated Values [CSV], give the file a name, and hit OK. You can close QGIS now, saving your work first, of course.
 
-No need to edit the CSV file -- we already filled out all the necessary fields in QGIS. Place the file in your StreamingAssets/Locations folder. Boot up DF Unity and fast travel to Kalunnunu...
+![alt text](https://imgur.com/K4hdUqs.png)
+
+No need to edit the CSV file -- we already filled out all the necessary fields in QGIS. Place the file in your StreamingAssets/Locations folder. Boot up DF Unity and fast travel to Bubissidata...
 
 ![alt text](https://imgur.com/e25xizf.png)
 
