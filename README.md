@@ -71,8 +71,6 @@ Next we're going to place a prefab! Click on the Prefab Placer layer and select 
 * *type* 1 does not smooth the terrain underneath the prefab
 * *type* 2 instances automatically snap to the coastline. Usually used for docks. 
 
-*Note*: World of Daggerfall instances can sometimes be placed on top of roads or towns. In order to prevent this from occurring, you can *prune* your CSV files in Kab's Location Loader using the LLPruneInvalidInstance console command. See https://github.com/KABoissonneault/DFU-LocationLoader for more on this.
-
 Because we don't want the ruins to get buried or float on a hillside, we will need to smooth the terrain. Set *type* to 0. T the *prefab* field is where we specify which specific prefab we want to place. Let's go with WOD_Ruins_01 from the World of Daggerfall mod. Finally, the *rotYaxis* field allows us to rotate the prefab -- we can leave that blank for now. Click OK. There's now a pink prefab symbol where we placed the ruins.
 
 ![alt text](https://imgur.com/gvuVCrc.png)
@@ -97,29 +95,29 @@ Perfect!
 
 Let's suppose that we decide there's been a prison break in Arkmoth End, and now the hills are full of bandits. Let's randomly place 30 bandit camps in a polygon around Arkmoth End.
 
-The first thing to do here (after duplicating the Prefab Placer layer again and renaming it Prison Break) is to draw a polygon around Arkmoth End. To do this, we'll need to create a new polygon layer. Select Layers -> New Shapefile Layer... from the menu. Set the layer to have a Polygon geometry type, name it whatever you'd like, and hit OK. 
+The first thing to do here is to draw a polygon around Arkmoth End. To do this, we'll need to create a new polygon layer. Select Layers -> New Geopackage Layer... from the menu. Set the layer to have a Polygon geometry type, name it whatever you'd like, and hit OK. 
 
-![alt text](https://imgur.com/WIuWiyo.png)
+![alt text](https://imgur.com/Sp8WO38.png)
 
 Select the new layer, select Toggle Editing, and select Add Polygon Feature. You can now draw the polygon by clicking in a circle around Arkmoth End (give it any id number).
 
-![alt text](https://imgur.com/4Qz1hFq.png)
+![alt text](https://imgur.com/HHrUYmA.png)
 
 Once you've made your polygon, it's time to fill it with bandit camps. Go to Vector -> Research Tools -> Random Points inside Polygon in the top menu. In the popup box, specify that you want to add 30 points. Set a minimum distance of .3 between them so that they don't spawn right on top of each other, and hit OK. 
 
-![alt text](https://imgur.com/iRzas4s.png)
+![alt text](https://imgur.com/vid7lPu.png)
 
 Your polygon will now be full of points, but all on a new layer called Random Points. Select this layer, hit Toggle Editing, right-click on it and open its Attribute Table, and select all the points by shift-clicking the numbers 1-30 on the left side.
 
-![alt text](https://imgur.com/30ucEhr.png)
+![alt text](https://imgur.com/if919qM.png)
 
-Then select Edit -> Copy Features in the top menu.  Select your duplicate Prefab Placer layer, hit Toggle Editing for this layer too, then Edit -> Paste Features.
+Then select Edit -> Copy Features in the top menu.  Select your Prefab Placer layer, hit Toggle Editing for this layer too, then Edit -> Paste Features.
 
-*Note:* Random placement might place your prefabs right on top of cities, dungeons, and other locations. You should do a once over and remove points that are right on top of locations on the map.
+*Note:* Random placement might place your prefabs right on top of roads, cities, dungeons, and other locations. You should do a once over and remove points that are right on top of locations on the map. Alternately, you can *prune* instances on top of roads or locations from your CSV files in Kab's Location Loader using the LLPruneInvalidInstance console command. See https://github.com/KABoissonneault/DFU-LocationLoader for more on this.
 
-Your bandit camps are now placed! Go ahead and export the layer as a CSV file. Open the CSV file in a spreadsheet app and finish filling out the empty columns. As before, you can put any value in the name column, and they can all have the same name. We want terrain smoothing, so type should be 0. Finally, we're going to use the *WOD_BanditCamp_01*, *02*, and *03* prefabs from World of Daggerfall. 
+Your bandit camps are now placed! Go ahead and export the layer as a CSV file. Open the CSV file in a spreadsheet app and finish filling out the empty columns. As before, you can put any value in the name column, and they can all have the same name. We want terrain smoothing, so type should be 0. Finally, we're going to use the *WOD_BanditCamp_01*, *02*, *03*, *4*, and *5* prefabs from World of Daggerfall. 
 
-![alt text](https://imgur.com/NoSgv14.png)
+![alt text](https://imgur.com/AcaufmY.png)
 
 Save the CSV, put it in your StreamingAssets/Locations folder, and fire up DF Unity....
 
@@ -130,19 +128,19 @@ Save the CSV, put it in your StreamingAssets/Locations folder, and fire up DF Un
 
 ## Tutorial #3: Dropping Rocks in the Alik'r Desert
 
-How can we use the GIS Construction Set to cover the Alik'r Desert with rocks? We'll be doing much the same thing as before -- filling a polygon with random points -- except that the Alik'r Desert is a much, much bigger polygon. We're going to need a lot of rocks. Lets try 20,000.
+How can we use the GIS Construction Set to cover the Alik'r Desert with rocks? We'll be doing much the same thing as before -- filling a polygon with random points -- except that the Alik'r Desert is a much, much bigger polygon. We're going to need a lot of rocks. Lets try 8,000.
 
 First, we need to select our polygon. No need to draw a new one, as the Alik'r Desert polygon can be found on the Regions layer. Activate and select the Regions layer, click the "Select Features by area or single click" icon from the top toolbar, and click on the Alik'r Desert. It should light up in yellow like this:
 
-![alt text](https://imgur.com/2s6tDTb.png)
+![alt text](https://imgur.com/VxD2sy6.png)
 
-Once again, select Vector -> Research Tools -> Randomly Add Points to Polygon. Set the function to generate 20,000 points (or alternately, play with the point density field). 
+Once again, select Vector -> Research Tools -> Randomly Add Points to Polygon. Set the function to generate 8,000 points (or alternately, play with the point density field). 
 
-![alt text](https://imgur.com/ujIz854.png)
+![alt text](https://imgur.com/nSCPUiY.png)
 
-Copy your random points to the duplicate Prefab Placer layer, and export to a CSV file. Open the CSV in a spreadsheet program. We can name all 20,000 rows "Rocks," and as we don't need smoothed terrain for rocks, we can set all the types to 1. The prefab column will take a bit more thought: after all, it would be a bit strange if we were to just see 20,000 instances of the same rock in the Alik'r Desert. You can make a rock prefab mix using simple spreadsheet tricks. Remember that these randomly generated rocks are in totally random order, so this strategy will have the rock types nice and mixed up. Save the CSV file.
+Copy your random points to the duplicate Prefab Placer layer, and export to a CSV file. Open the CSV in a spreadsheet program. We can name all 8,000 rows "Rocks," and as we don't need smoothed terrain for rocks, we can set all the types to 1. The prefab column will take a bit more thought: after all, it would be a bit strange if we were to just see 20,000 instances of the same rock in the Alik'r Desert. You can make a rock prefab mix using simple spreadsheet tricks. Remember that these randomly generated rocks are in totally random order, so this strategy will have the rock types nice and mixed up. Save the CSV file.
 
-![alt text](https://imgur.com/Upm6Bps.png)
+![alt text](https://imgur.com/gH80h8Z.png)
 
 Drop the CSV into StreamingAssets/Locations and fire up DFUnity...
 
