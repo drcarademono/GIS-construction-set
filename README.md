@@ -87,7 +87,7 @@ Click Toggle Editing again to turn off editing and save your changes to the laye
 
 No need to edit the CSV file -- we already filled out all the necessary fields in QGIS. Place the file in your StreamingAssets/Locations folder. Boot up DF Unity and fast travel to Bubissidata and walk down the trail...
 
-![alt text](https://imgur.com/e56UNeE.png)
+![alt text](https://imgur.com/pCt6Bao.png)
 
 Perfect!
 
@@ -121,7 +121,7 @@ Your bandit camps are now placed! Go ahead and export the layer as a CSV file. O
 
 Save the CSV, put it in your StreamingAssets/Locations folder, and fire up DF Unity....
 
-![alt text](https://imgur.com/stdRKFD.png)
+![alt text](https://imgur.com/XTP00av.png)
 
 *Tip:* Modders who are accustomed to games like Morrowind or Skyrim might have some trouble adjusting to the sheer scale of Daggerfall. For comparison, the small, approximately 7x6 MapPixel polygon we drew around Arkmoth End is larger than the island of Vvardenfell! From that perspective, 30 bandit camps doesn't seem all that excessive.
 
