@@ -121,7 +121,7 @@ Your bandit camps are now placed! Go ahead and export the layer as a CSV file. O
 
 Save the CSV, put it in your StreamingAssets/Locations folder, and fire up DF Unity....
 
-![alt text](https://imgur.com/XTP00av.png)
+![alt text](https://imgur.com/D3wVnlv.png)
 
 *Tip:* Modders who are accustomed to games like Morrowind or Skyrim might have some trouble adjusting to the sheer scale of Daggerfall. For comparison, the small, approximately 7x6 MapPixel polygon we drew around Arkmoth End is larger than the island of Vvardenfell! From that perspective, 30 bandit camps doesn't seem all that excessive.
 
