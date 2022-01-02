@@ -85,9 +85,9 @@ Click Toggle Editing again to turn off editing and save your changes to the laye
 
 ![alt text](https://imgur.com/K4hdUqs.png)
 
-No need to edit the CSV file -- we already filled out all the necessary fields in QGIS. Place the file in your StreamingAssets/Locations folder. Boot up DF Unity and fast travel to Bubissidata...
+No need to edit the CSV file -- we already filled out all the necessary fields in QGIS. Place the file in your StreamingAssets/Locations folder. Boot up DF Unity and fast travel to Bubissidata and walk down the trail...
 
-![alt text](https://imgur.com/e25xizf.png)
+![alt text](https://imgur.com/e56UNeE.png)
 
 Perfect!
 
@@ -144,9 +144,7 @@ Copy your random points to the duplicate Prefab Placer layer, and export to a CS
 
 Drop the CSV into StreamingAssets/Locations and fire up DFUnity...
 
-![alt text](https://imgur.com/EfrtIml.png)
-
-![alt text](https://imgur.com/h09F1FY.png)
+![alt text](https://imgur.com/vlyMZgi.png)
 
 Congratulations! You are now ready to transform the Iliac Bay.
 
