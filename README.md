@@ -142,6 +142,8 @@ Copy your random points to the duplicate Prefab Placer layer, and export to a CS
 
 ![alt text](https://imgur.com/gH80h8Z.png)
 
+*Note:* The heightOffset field can raise and lower prefabs, relative to the terrain. Good for rocks, not great for buildings.
+
 Drop the CSV into StreamingAssets/Locations and fire up DFUnity...
 
 ![alt text](https://imgur.com/vlyMZgi.png)
