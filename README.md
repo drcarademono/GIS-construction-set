@@ -31,8 +31,15 @@ Finally and most importantly, it includes:
 
 You can download all the project files from my GitHub: https://github.com/drcarademono/GIS-construction-set. It requires QGIS (https://qgis.org/en/site/forusers/download.html), and Kab's Location Loader / World of Daggerfall (https://forums.dfworkshop.net/viewtopic.php?t=5304).
 
+## Getting Started: Making Prefabs
 
-## Getting Started: Adding Prefabs
+Prefabs are locations that can be placed in Daggerfall's game world, either inidividually. They can be created in Kab's Prefab Editor, a program for the Unity Editor that is easy to use for anyone who has ever played around with the TES Construction Set for other Elder Scrolls games. You can find the Prefab Editor and a tutorial on how to use it here: https://github.com/KABoissonneault/DFU-LocationLoader/blob/main/Resources/TutorialText.md.
+
+![alt text](https://github.com/KABoissonneault/DFU-LocationLoader/raw/2eac6fbcbf141a3c5b2811b931ec4f4392badfce/Resources/Tutorial2.png)
+
+Once you've made some prefabs (and saved them in your StreamingAssets\Locations\LocationPrefab directory), you can use the GIS Construction Kit to add them to the game world.
+
+## Getting Started: Adding Prefabs to the Game World
 
 Adding points to the Prefab Placer layer works like adding points to any QGIS layer. Select Prefab Placer in the layer list and click the pencil icon (Toggle Editing) in the top tool bar. Now click the Add Point Feature icon in the toolbar and click anywhere on the map where you'd like to add a prefab. Excellent! You've added a point.
 
