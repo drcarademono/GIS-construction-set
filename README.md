@@ -33,7 +33,7 @@ You can download all the project files from my GitHub: https://github.com/drcara
 
 ## Getting Started: Making Prefabs
 
-Prefabs are locations that can be placed in Daggerfall's game world, either inidividually. They can be created in Kab's Prefab Editor, a program for the Unity Editor that is easy to use for anyone who has ever played around with the TES Construction Set for other Elder Scrolls games. You can find the Prefab Editor and a tutorial on how to use it here: https://github.com/KABoissonneault/DFU-LocationLoader/blob/main/Resources/TutorialText.md.
+Prefabs are locations that can be placed in Daggerfall's game world. They can be created in Kab's Prefab Editor, an easy-to-use program for the Unity Editor that is very similar to the TES Construction Set for other Elder Scrolls games. You can find the Prefab Editor and a tutorial on how to use it here: https://github.com/KABoissonneault/DFU-LocationLoader/blob/main/Resources/TutorialText.md.
 
 ![alt text](https://github.com/KABoissonneault/DFU-LocationLoader/raw/2eac6fbcbf141a3c5b2811b931ec4f4392badfce/Resources/Tutorial2.png)
 
