@@ -145,7 +145,7 @@ Once again, select Vector -> Research Tools -> Randomly Add Points to Polygon. S
 
 ![alt text](https://imgur.com/nSCPUiY.png)
 
-Copy your random points to the duplicate Prefab Placer layer, and export to a CSV file. Open the CSV in a spreadsheet program. We can name all 8,000 rows "Rocks," and as we don't need smoothed terrain for rocks, we can set all the types to 1. The prefab column will take a bit more thought: after all, it would be a bit strange if we were to just see 20,000 instances of the same rock in the Alik'r Desert. You can make a rock prefab mix using simple spreadsheet tricks. Remember that these randomly generated rocks are in totally random order, so this strategy will have the rock types nice and mixed up. Save the CSV file.
+Copy your random points to the Prefab Placer layer, and export to a CSV file. Open the CSV in a spreadsheet program. We can name all 8,000 rows "Rocks," and as we don't need smoothed terrain for rocks, we can set all the types to 1. The prefab column will take a bit more thought: after all, it would be a bit strange if we were to just see 20,000 instances of the same rock in the Alik'r Desert. You can make a rock prefab mix using simple spreadsheet tricks. Remember that these randomly generated rocks are in totally random order, so this strategy will have the rock types nice and mixed up. Save the CSV file.
 
 ![alt text](https://imgur.com/gH80h8Z.png)
 
