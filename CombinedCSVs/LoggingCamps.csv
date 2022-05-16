@@ -1,159 +1,158 @@
-name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
-Logging Camp,0,WOD_LoggingCamp,,945,97,26,19,945269719,Wrothgarian Mountains,945.203125,-97.8515625
-Logging Camp,0,WOD_LoggingCamp,,746,418,86,29,7468641829,Dragontail Mountains,746.671875,-418.7734375
-Logging Camp,0,WOD_LoggingCamp,,858,468,93,68,8589346868,Ephesus,858.7265625,-468.46875
-Logging Camp,0,WOD_LoggingCamp,,760,40,111,1,7601114001,Wrothgarian Mountains,760.8671875,-40.9921875
-Logging Camp,0,WOD_LoggingCamp,,708,387,101,100,708101387100,Dragontail Mountains,708.7890625,-387.21875
-Logging Camp,0,WOD_LoggingCamp,,912,466,35,70,9123546670,Ephesus,912.2734375,-466.453125
-Logging Camp,0,WOD_LoggingCamp,,745,122,96,0,7459612200,Wrothgarian Mountains,745.75,-123
-Logging Camp,0,WOD_LoggingCamp,,808,425,3,125,80803425125,Dragontail Mountains,808.0234375,-425.0234375
-Logging Camp,0,WOD_LoggingCamp,,716,5,72,67,716720567,Wrothgarian Mountains,716.5625,-5.4765625
-Logging Camp,0,WOD_LoggingCamp,,809,77,119,82,8091197782,Wrothgarian Mountains,809.9296875,-77.359375
-Logging Camp,0,WOD_LoggingCamp,,976,159,116,108,976116159108,Wrothgarian Mountains,976.90625,-159.15625
-Logging Camp,0,WOD_LoggingCamp,,927,92,90,65,927909265,Wrothgarian Mountains,927.703125,-92.4921875
-Logging Camp,0,WOD_LoggingCamp,,755,99,50,49,755509949,Wrothgarian Mountains,755.390625,-99.6171875
-Logging Camp,0,WOD_LoggingCamp,,865,423,1,127,86501423127,Ephesus,865.0078125,-423.0078125
-Logging Camp,0,WOD_LoggingCamp,,894,38,64,105,8946438105,Wrothgarian Mountains,894.5,-38.1796875
-Logging Camp,0,WOD_LoggingCamp,,733,32,19,20,733193220,Wrothgarian Mountains,733.1484375,-32.84375
-Logging Camp,0,WOD_LoggingCamp,,686,218,54,20,6865421820,Isle of Balfiera,686.421875,-218.84375
-Logging Camp,0,WOD_LoggingCamp,,929,160,60,93,9296016093,Wrothgarian Mountains,929.46875,-160.2734375
-Logging Camp,0,WOD_LoggingCamp,,864,13,51,45,864511345,Wrothgarian Mountains,864.3984375,-13.6484375
-Logging Camp,0,WOD_LoggingCamp,,823,142,47,87,8234714287,Wrothgarian Mountains,823.3671875,-142.3203125
-Logging Camp,0,WOD_LoggingCamp,,802,395,110,32,80211039532,Dragontail Mountains,802.859375,-395.75
-Logging Camp,0,WOD_LoggingCamp,,922,479,69,123,92269479123,Dragontail Mountains,922.5390625,-479.0390625
-Logging Camp,0,WOD_LoggingCamp,,683,97,35,1,683359701,Koegria,683.2734375,-97.9921875
-Logging Camp,0,WOD_LoggingCamp,,832,482,97,4,8329748204,Dragontail Mountains,832.7578125,-482.96875
-Logging Camp,0,WOD_LoggingCamp,,711,372,114,69,71111437269,Dragontail Mountains,711.890625,-372.4609375
-Logging Camp,0,WOD_LoggingCamp,,679,84,102,64,6791028464,Koegria,679.796875,-84.5
-Logging Camp,0,WOD_LoggingCamp,,905,432,60,109,90560432109,Ephesus,905.46875,-432.1484375
-Logging Camp,0,WOD_LoggingCamp,,617,50,33,72,617335072,Kambria,617.2578125,-50.4375
-Logging Camp,0,WOD_LoggingCamp,,756,19,111,87,7561111987,Wrothgarian Mountains,756.8671875,-19.3203125
-Logging Camp,0,WOD_LoggingCamp,,942,445,19,113,94219445113,Dragontail Mountains,942.1484375,-445.1171875
-Logging Camp,0,WOD_LoggingCamp,,885,401,58,32,8855840132,Dragontail Mountains,885.453125,-401.75
-Logging Camp,0,WOD_LoggingCamp,,981,103,10,61,9811010361,Wrothgarian Mountains,981.078125,-103.5234375
-Logging Camp,0,WOD_LoggingCamp,,720,394,32,124,72032394124,Dragontail Mountains,720.25,-394.03125
-Logging Camp,0,WOD_LoggingCamp,,754,95,13,24,754139524,Wrothgarian Mountains,754.1015625,-95.8125
-Logging Camp,0,WOD_LoggingCamp,,898,33,106,68,8981063368,Wrothgarian Mountains,898.828125,-33.46875
-Logging Camp,0,WOD_LoggingCamp,,621,388,6,3,6210638803,Dragontail Mountains,621.046875,-388.9765625
-Logging Camp,0,WOD_LoggingCamp,,648,345,116,64,64811634564,Dragontail Mountains,648.90625,-345.5
-Logging Camp,0,WOD_LoggingCamp,,780,448,76,50,7807644850,Dragontail Mountains,780.59375,-448.609375
-Logging Camp,0,WOD_LoggingCamp,,928,34,64,81,928643481,Wrothgarian Mountains,928.5,-34.3671875
-Logging Camp,0,WOD_LoggingCamp,,782,400,110,20,78211040020,Dragontail Mountains,782.859375,-400.84375
-Logging Camp,0,WOD_LoggingCamp,,754,112,44,86,7544411286,Wrothgarian Mountains,754.34375,-112.328125
-Logging Camp,0,WOD_LoggingCamp,,975,56,67,63,975675663,Wrothgarian Mountains,975.5234375,-56.5078125
-Logging Camp,0,WOD_LoggingCamp,,697,438,120,9,69712043809,Dragontail Mountains,697.9375,-438.9296875
-Logging Camp,0,WOD_LoggingCamp,,980,135,88,51,9808813551,Wrothgarian Mountains,980.6875,-135.6015625
-Logging Camp,0,WOD_LoggingCamp,,954,458,86,42,9548645842,Dragontail Mountains,954.671875,-458.671875
-Logging Camp,0,WOD_LoggingCamp,,663,64,92,19,663926419,Koegria,663.71875,-64.8515625
-Logging Camp,0,WOD_LoggingCamp,,910,448,15,29,9101544829,Ephesus,910.1171875,-448.7734375
-Logging Camp,0,WOD_LoggingCamp,,870,481,84,119,87084481119,Dragontail Mountains,870.65625,-481.0703125
-Logging Camp,0,WOD_LoggingCamp,,650,393,28,95,6502839395,Dragontail Mountains,650.21875,-393.2578125
-Logging Camp,0,WOD_LoggingCamp,,967,61,93,46,967936146,Wrothgarian Mountains,967.7265625,-61.640625
-Logging Camp,0,WOD_LoggingCamp,,927,130,106,68,92710613068,Wrothgarian Mountains,927.828125,-130.46875
-Logging Camp,0,WOD_LoggingCamp,,804,39,91,118,8049139118,Wrothgarian Mountains,804.7109375,-39.078125
-Logging Camp,0,WOD_LoggingCamp,,858,491,118,116,858118491116,Dragontail Mountains,858.921875,-491.09375
-Logging Camp,0,WOD_LoggingCamp,,615,13,87,55,615871355,Wrothgarian Mountains,615.6796875,-13.5703125
-Logging Camp,0,WOD_LoggingCamp,,828,434,38,88,8283843488,Ephesus,828.296875,-434.3125
-Logging Camp,0,WOD_LoggingCamp,,823,407,64,12,8236440712,Dragontail Mountains,823.5,-407.90625
-Logging Camp,0,WOD_LoggingCamp,,786,405,119,120,786119405120,Dragontail Mountains,786.9296875,-405.0625
-Logging Camp,0,WOD_LoggingCamp,,753,94,102,102,75310294102,Wrothgarian Mountains,753.796875,-94.203125
-Logging Camp,0,WOD_LoggingCamp,,729,44,64,4,729644404,Wrothgarian Mountains,729.5,-44.96875
-Logging Camp,0,WOD_LoggingCamp,,856,489,123,79,85612348979,Dragontail Mountains,856.9609375,-489.3828125
-Logging Camp,0,WOD_LoggingCamp,,675,100,13,23,6751310023,Koegria,675.1015625,-100.8203125
-Logging Camp,0,WOD_LoggingCamp,,879,113,69,120,87969113120,Wrothgarian Mountains,879.5390625,-113.0625
-Logging Camp,0,WOD_LoggingCamp,,799,101,119,41,79911910141,Wrothgarian Mountains,799.9296875,-101.6796875
-Logging Camp,0,WOD_LoggingCamp,,790,110,31,1,7903111001,Wrothgarian Mountains,790.2421875,-110.9921875
-Logging Camp,0,WOD_LoggingCamp,,942,435,63,83,9426343583,Dragontail Mountains,942.4921875,-435.3515625
-Logging Camp,0,WOD_LoggingCamp,,895,469,86,90,8958646990,Ephesus,895.671875,-469.296875
-Logging Camp,0,WOD_LoggingCamp,,699,58,63,27,699635827,Wrothgarian Mountains,699.4921875,-58.7890625
-Logging Camp,0,WOD_LoggingCamp,,750,79,73,28,750737928,Wrothgarian Mountains,750.5703125,-79.78125
-Logging Camp,0,WOD_LoggingCamp,,855,50,73,87,855735087,Wrothgarian Mountains,855.5703125,-50.3203125
-Logging Camp,0,WOD_LoggingCamp,,943,69,65,90,943656990,Wrothgarian Mountains,943.5078125,-69.296875
-Logging Camp,0,WOD_LoggingCamp,,778,467,124,65,77812446765,Dragontail Mountains,778.96875,-467.4921875
-Logging Camp,0,WOD_LoggingCamp,,622,363,50,96,6225036396,Dragontail Mountains,622.390625,-363.25
-Logging Camp,0,WOD_LoggingCamp,,752,9,35,50,752350950,Wrothgarian Mountains,752.2734375,-9.609375
-Logging Camp,0,WOD_LoggingCamp,,744,38,91,125,7449138125,Wrothgarian Mountains,744.7109375,-38.0234375
-Logging Camp,0,WOD_LoggingCamp,,625,326,68,86,6256832686,Dragontail Mountains,625.53125,-326.328125
-Logging Camp,0,WOD_LoggingCamp,,981,151,109,84,98110915184,Wrothgarian Mountains,981.8515625,-151.34375
-Logging Camp,0,WOD_LoggingCamp,,910,415,106,45,91010641545,Dragontail Mountains,910.828125,-415.6484375
-Logging Camp,0,WOD_LoggingCamp,,825,32,5,84,825053284,Wrothgarian Mountains,825.0390625,-32.34375
-Logging Camp,0,WOD_LoggingCamp,,700,58,27,74,700275874,Wrothgarian Mountains,700.2109375,-58.421875
-Logging Camp,0,WOD_LoggingCamp,,973,423,22,82,9732242382,Dragontail Mountains,973.171875,-423.359375
-Logging Camp,0,WOD_LoggingCamp,,666,391,28,35,6662839135,Dragontail Mountains,666.21875,-391.7265625
-Logging Camp,0,WOD_LoggingCamp,,682,400,90,27,6829040027,Dragontail Mountains,682.703125,-400.7890625
-Logging Camp,0,WOD_LoggingCamp,,655,383,123,1,65512338301,Dragontail Mountains,655.9609375,-383.9921875
-Logging Camp,0,WOD_LoggingCamp,,799,479,44,97,7994447997,Dragontail Mountains,799.34375,-479.2421875
-Logging Camp,0,WOD_LoggingCamp,,870,485,73,29,8707348529,Dragontail Mountains,870.5703125,-485.7734375
-Logging Camp,0,WOD_LoggingCamp,,926,62,61,74,926616274,Wrothgarian Mountains,926.4765625,-62.421875
-Logging Camp,0,WOD_LoggingCamp,,738,31,28,76,738283176,Wrothgarian Mountains,738.21875,-31.40625
-Logging Camp,0,WOD_LoggingCamp,,637,8,55,109,6375508109,Wrothgarian Mountains,637.4296875,-8.1484375
-Logging Camp,0,WOD_LoggingCamp,,880,66,60,56,880606656,Wrothgarian Mountains,880.46875,-66.5625
-Logging Camp,0,WOD_LoggingCamp,,768,472,101,26,76810147226,Dragontail Mountains,768.7890625,-472.796875
-Logging Camp,0,WOD_LoggingCamp,,812,462,122,45,81212246245,Dragontail Mountains,812.953125,-462.6484375
-Logging Camp,0,WOD_LoggingCamp,,671,359,40,74,6714035974,Dragontail Mountains,671.3125,-359.421875
-Logging Camp,0,WOD_LoggingCamp,,717,407,6,125,71706407125,Dragontail Mountains,717.046875,-407.0234375
-Logging Camp,0,WOD_LoggingCamp,,625,373,0,106,62500373106,Dragontail Mountains,625,-373.171875
-Logging Camp,0,WOD_LoggingCamp,,937,92,67,12,937679212,Wrothgarian Mountains,937.5234375,-92.90625
-Logging Camp,0,WOD_LoggingCamp,,635,29,28,87,635282987,Wrothgarian Mountains,635.21875,-29.3203125
-Logging Camp,0,WOD_LoggingCamp,,875,71,1,19,875017119,Wrothgarian Mountains,875.0078125,-71.8515625
-Logging Camp,0,WOD_LoggingCamp,,925,29,70,65,925702965,Wrothgarian Mountains,925.546875,-29.4921875
-Logging Camp,0,WOD_LoggingCamp,,714,421,104,84,71410442184,Dragontail Mountains,714.8125,-421.34375
-Logging Camp,0,WOD_LoggingCamp,,843,420,87,92,8438742092,Dragontail Mountains,843.6796875,-420.28125
-Logging Camp,0,WOD_LoggingCamp,,948,434,26,8,9482643408,Dragontail Mountains,948.203125,-434.9375
-Logging Camp,0,WOD_LoggingCamp,,899,81,116,127,89911681127,Wrothgarian Mountains,899.90625,-81.0078125
-Logging Camp,0,WOD_LoggingCamp,,636,320,38,12,6363832012,Dragontail Mountains,636.296875,-320.90625
-Logging Camp,0,WOD_LoggingCamp,,899,414,93,5,8999341405,Dragontail Mountains,899.7265625,-414.9609375
-Logging Camp,0,WOD_LoggingCamp,,809,17,54,4,809541704,Wrothgarian Mountains,809.421875,-17.96875
-Logging Camp,0,WOD_LoggingCamp,,774,435,56,97,7745643597,Dragontail Mountains,774.4375,-435.2421875
-Logging Camp,0,WOD_LoggingCamp,,772,126,50,78,7725012678,Wrothgarian Mountains,772.390625,-126.390625
-Logging Camp,0,WOD_LoggingCamp,,871,450,54,18,8715445018,Ephesus,871.421875,-450.859375
-Logging Camp,0,WOD_LoggingCamp,,802,483,37,59,8023748359,Dragontail Mountains,802.2890625,-483.5390625
-Logging Camp,0,WOD_LoggingCamp,,827,383,54,70,8275438370,Dragontail Mountains,827.421875,-383.453125
-Logging Camp,0,WOD_LoggingCamp,,773,381,87,41,7738738141,Dragontail Mountains,773.6796875,-381.6796875
-Logging Camp,0,WOD_LoggingCamp,,891,116,99,40,8919911640,Wrothgarian Mountains,891.7734375,-116.6875
-Logging Camp,0,WOD_LoggingCamp,,641,30,113,56,6411133056,Wrothgarian Mountains,641.8828125,-30.5625
-Logging Camp,0,WOD_LoggingCamp,,837,452,28,20,8372845220,Ephesus,837.21875,-452.84375
-Logging Camp,0,WOD_LoggingCamp,,766,395,116,72,76611639572,Dragontail Mountains,766.90625,-395.4375
-Logging Camp,0,WOD_LoggingCamp,,765,126,84,14,7658412614,Wrothgarian Mountains,765.65625,-126.890625
-Logging Camp,0,WOD_LoggingCamp,,904,417,91,32,9049141732,Dragontail Mountains,904.7109375,-417.75
-Logging Camp,0,WOD_LoggingCamp,,759,472,17,41,7591747241,Dragontail Mountains,759.1328125,-472.6796875
-Logging Camp,0,WOD_LoggingCamp,,714,377,122,64,71412237764,Dragontail Mountains,714.953125,-377.5
-Logging Camp,0,WOD_LoggingCamp,,794,400,105,8,79410540008,Dragontail Mountains,794.8203125,-400.9375
-Logging Camp,0,WOD_LoggingCamp,,974,476,55,8,9745547608,Dragontail Mountains,974.4296875,-476.9375
-Logging Camp,0,WOD_LoggingCamp,,927,130,33,24,9273313024,Wrothgarian Mountains,927.2578125,-130.8125
-Logging Camp,0,WOD_LoggingCamp,,808,468,109,54,80810946854,Dragontail Mountains,808.8515625,-468.578125
-Logging Camp,0,WOD_LoggingCamp,,752,487,96,83,7529648783,Dragontail Mountains,752.75,-487.3515625
-Logging Camp,0,WOD_LoggingCamp,,941,144,64,35,9416414435,Wrothgarian Mountains,941.5,-144.7265625
-Logging Camp,0,WOD_LoggingCamp,,800,20,92,44,800922044,Wrothgarian Mountains,800.71875,-20.65625
-Logging Camp,0,WOD_LoggingCamp,,971,132,36,72,9713613272,Wrothgarian Mountains,971.28125,-132.4375
-Logging Camp,0,WOD_LoggingCamp,,612,332,95,61,6129533261,Dragontail Mountains,612.7421875,-332.5234375
-Logging Camp,0,WOD_LoggingCamp,,675,93,5,10,675059310,Koegria,675.0390625,-93.921875
-Logging Camp,0,WOD_LoggingCamp,,658,84,78,86,658788486,Koegria,658.609375,-84.328125
-Logging Camp,0,WOD_LoggingCamp,,929,88,17,97,929178897,Wrothgarian Mountains,929.1328125,-88.2421875
-Logging Camp,0,WOD_LoggingCamp,,907,458,123,32,90712345832,Ephesus,907.9609375,-458.75
-Logging Camp,0,WOD_LoggingCamp,,706,358,122,35,70612235835,Dragontail Mountains,706.953125,-358.7265625
-Logging Camp,0,WOD_LoggingCamp,,570,95,82,106,5708295106,Kambria,570.640625,-95.171875
-Logging Camp,0,WOD_LoggingCamp,,860,430,55,3,8605543003,Ephesus,860.4296875,-430.9765625
-Logging Camp,0,WOD_LoggingCamp,,645,62,26,118,6452662118,Kambria,645.203125,-62.078125
-Logging Camp,0,WOD_LoggingCamp,,744,392,8,72,7440839272,Dragontail Mountains,744.0625,-392.4375
-Logging Camp,0,WOD_LoggingCamp,,977,427,109,13,97710942713,Dragontail Mountains,977.8515625,-427.8984375
-Logging Camp,0,WOD_LoggingCamp,,704,82,8,50,704088250,Koegria,704.0625,-82.609375
-Logging Camp,0,WOD_LoggingCamp,,842,113,119,55,84211911355,Wrothgarian Mountains,842.9296875,-113.5703125
-Logging Camp,0,WOD_LoggingCamp,,875,104,69,18,8756910418,Wrothgarian Mountains,875.5390625,-104.859375
-Logging Camp,0,WOD_LoggingCamp,,975,424,115,15,97511542415,Dragontail Mountains,975.8984375,-424.8828125
-Logging Camp,0,WOD_LoggingCamp,,876,494,110,86,87611049486,Dragontail Mountains,876.859375,-494.328125
-Logging Camp,0,WOD_LoggingCamp,,747,62,33,59,747336259,Wrothgarian Mountains,747.2578125,-62.5390625
-Logging Camp,0,WOD_LoggingCamp,,708,203,93,31,7089320331,Isle of Balfiera,708.7265625,-203.7578125
-Logging Camp,0,WOD_LoggingCamp,,677,204,60,45,6776020445,Isle of Balfiera,677.46875,-204.6484375
-Logging Camp,0,WOD_LoggingCamp,,650,196,91,52,6509119652,Isle of Balfiera,650.7109375,-196.59375
-Logging Camp,0,WOD_LoggingCamp,,632,19,47,33,632471933,Wrothgarian Mountains,632.3671875,-19.7421875
-Logging Camp,0,WOD_LoggingCamp,,656,35,31,24,656313524,Wrothgarian Mountains,656.2421875,-35.8125
-Logging Camp,0,WOD_LoggingCamp,,675,28,97,33,675972833,Wrothgarian Mountains,675.7578125,-28.7421875
-Logging Camp,0,WOD_LoggingCamp,,699,48,46,119,6994648119,Wrothgarian Mountains,699.359375,-48.0703125
-Logging Camp,0,WOD_LoggingCamp,,785,57,88,83,785885783,Wrothgarian Mountains,785.6875,-57.3515625
-Logging Camp,0,WOD_LoggingCamp,,788,80,95,102,7889580102,Wrothgarian Mountains,788.7421875,-80.203125
-Logging Camp,0,WOD_LoggingCamp,,600,28,72,87,600722887,Wrothgarian Mountains,600.5625,-28.3203125
-Logging Camp,0,WOD_LoggingCamp,,598,43,122,87,5981224387,Kambria,598.953125,-43.3203125
-Logging Camp,0,WOD_LoggingCamp,,622,60,70,128,6227060128,Kambria,622.546875,-60
-Logging Camp,0,WOD_LoggingCamp,,633,77,77,4,633777704,Kambria,633.6015625,-77.96875
-Logging Camp,0,WOD_LoggingCamp,,688,74,101,90,6881017490,Koegria,688.7890625,-74.296875
+fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY
+"1",Logging Camp,false,WOD_LoggingCamp,,"945","97","26","19","945269719",Wrothgarian Mountains,945.203125,-97.8515625
+"2",Logging Camp,false,WOD_LoggingCamp,,"746","418","86","29","7468641829",Dragontail Mountains,746.671875,-418.7734375
+"3",Logging Camp,false,WOD_LoggingCamp,,"858","468","93","68","8589346868",Ephesus,858.7265625,-468.46875
+"4",Logging Camp,false,WOD_LoggingCamp,,"760","40","111","1","7601114001",Wrothgarian Mountains,760.8671875,-40.9921875
+"5",Logging Camp,false,WOD_LoggingCamp,,"708","387","101","100","708101387100",Dragontail Mountains,708.7890625,-387.21875
+"6",Logging Camp,false,WOD_LoggingCamp,,"912","466","35","70","9123546670",Ephesus,912.2734375,-466.453125
+"7",Logging Camp,false,WOD_LoggingCamp,,"745","122","96","0","7459612200",Wrothgarian Mountains,745.75,-123
+"8",Logging Camp,false,WOD_LoggingCamp,,"808","425","3","125","80803425125",Dragontail Mountains,808.0234375,-425.0234375
+"9",Logging Camp,false,WOD_LoggingCamp,,"716","5","72","67","716720567",Wrothgarian Mountains,716.5625,-5.4765625
+"10",Logging Camp,false,WOD_LoggingCamp,,"809","77","119","82","8091197782",Wrothgarian Mountains,809.9296875,-77.359375
+"11",Logging Camp,false,WOD_LoggingCamp,,"976","159","116","108","976116159108",Wrothgarian Mountains,976.90625,-159.15625
+"12",Logging Camp,false,WOD_LoggingCamp,,"927","92","90","65","927909265",Wrothgarian Mountains,927.703125,-92.4921875
+"13",Logging Camp,false,WOD_LoggingCamp,,"755","99","50","49","755509949",Wrothgarian Mountains,755.390625,-99.6171875
+"14",Logging Camp,false,WOD_LoggingCamp,,"865","423","1","127","86501423127",Ephesus,865.0078125,-423.0078125
+"15",Logging Camp,false,WOD_LoggingCamp,,"894","38","64","105","8946438105",Wrothgarian Mountains,894.5,-38.1796875
+"16",Logging Camp,false,WOD_LoggingCamp,,"733","32","19","20","733193220",Wrothgarian Mountains,733.1484375,-32.84375
+"17",Logging Camp,false,WOD_LoggingCamp,,"686","218","54","20","6865421820",Isle of Balfiera,686.421875,-218.84375
+"18",Logging Camp,false,WOD_LoggingCamp,,"929","160","60","93","9296016093",Wrothgarian Mountains,929.46875,-160.2734375
+"19",Logging Camp,false,WOD_LoggingCamp,,"864","13","51","45","864511345",Wrothgarian Mountains,864.3984375,-13.6484375
+"20",Logging Camp,false,WOD_LoggingCamp,,"823","142","47","87","8234714287",Wrothgarian Mountains,823.3671875,-142.3203125
+"21",Logging Camp,false,WOD_LoggingCamp,,"802","395","110","32","80211039532",Dragontail Mountains,802.859375,-395.75
+"22",Logging Camp,false,WOD_LoggingCamp,,"922","479","69","123","92269479123",Dragontail Mountains,922.5390625,-479.0390625
+"23",Logging Camp,false,WOD_LoggingCamp,,"683","97","35","1","683359701",Koegria,683.2734375,-97.9921875
+"24",Logging Camp,false,WOD_LoggingCamp,,"832","482","97","4","8329748204",Dragontail Mountains,832.7578125,-482.96875
+"25",Logging Camp,false,WOD_LoggingCamp,,"711","372","114","69","71111437269",Dragontail Mountains,711.890625,-372.4609375
+"26",Logging Camp,false,WOD_LoggingCamp,,"679","84","102","64","6791028464",Koegria,679.796875,-84.5
+"27",Logging Camp,false,WOD_LoggingCamp,,"905","432","60","109","90560432109",Ephesus,905.46875,-432.1484375
+"28",Logging Camp,false,WOD_LoggingCamp,,"617","50","33","72","617335072",Kambria,617.2578125,-50.4375
+"29",Logging Camp,false,WOD_LoggingCamp,,"756","19","111","87","7561111987",Wrothgarian Mountains,756.8671875,-19.3203125
+"30",Logging Camp,false,WOD_LoggingCamp,,"942","445","19","113","94219445113",Dragontail Mountains,942.1484375,-445.1171875
+"31",Logging Camp,false,WOD_LoggingCamp,,"885","401","58","32","8855840132",Dragontail Mountains,885.453125,-401.75
+"32",Logging Camp,false,WOD_LoggingCamp,,"981","103","10","61","9811010361",Wrothgarian Mountains,981.078125,-103.5234375
+"33",Logging Camp,false,WOD_LoggingCamp,,"720","394","32","124","72032394124",Dragontail Mountains,720.25,-394.03125
+"34",Logging Camp,false,WOD_LoggingCamp,,"754","95","13","24","754139524",Wrothgarian Mountains,754.1015625,-95.8125
+"35",Logging Camp,false,WOD_LoggingCamp,,"898","33","106","68","8981063368",Wrothgarian Mountains,898.828125,-33.46875
+"36",Logging Camp,false,WOD_LoggingCamp,,"621","388","6","3","6210638803",Dragontail Mountains,621.046875,-388.9765625
+"37",Logging Camp,false,WOD_LoggingCamp,,"648","345","116","64","64811634564",Dragontail Mountains,648.90625,-345.5
+"38",Logging Camp,false,WOD_LoggingCamp,,"780","448","76","50","7807644850",Dragontail Mountains,780.59375,-448.609375
+"39",Logging Camp,false,WOD_LoggingCamp,,"928","34","64","81","928643481",Wrothgarian Mountains,928.5,-34.3671875
+"40",Logging Camp,false,WOD_LoggingCamp,,"782","400","110","20","78211040020",Dragontail Mountains,782.859375,-400.84375
+"41",Logging Camp,false,WOD_LoggingCamp,,"754","112","44","86","7544411286",Wrothgarian Mountains,754.34375,-112.328125
+"42",Logging Camp,false,WOD_LoggingCamp,,"975","56","67","63","975675663",Wrothgarian Mountains,975.5234375,-56.5078125
+"43",Logging Camp,false,WOD_LoggingCamp,,"697","438","120","9","69712043809",Dragontail Mountains,697.9375,-438.9296875
+"44",Logging Camp,false,WOD_LoggingCamp,,"980","135","88","51","9808813551",Wrothgarian Mountains,980.6875,-135.6015625
+"45",Logging Camp,false,WOD_LoggingCamp,,"954","458","86","42","9548645842",Dragontail Mountains,954.671875,-458.671875
+"46",Logging Camp,false,WOD_LoggingCamp,,"663","64","92","19","663926419",Koegria,663.71875,-64.8515625
+"47",Logging Camp,false,WOD_LoggingCamp,,"910","448","15","29","9101544829",Ephesus,910.1171875,-448.7734375
+"48",Logging Camp,false,WOD_LoggingCamp,,"870","481","84","119","87084481119",Dragontail Mountains,870.65625,-481.0703125
+"49",Logging Camp,false,WOD_LoggingCamp,,"650","393","28","95","6502839395",Dragontail Mountains,650.21875,-393.2578125
+"50",Logging Camp,false,WOD_LoggingCamp,,"967","61","93","46","967936146",Wrothgarian Mountains,967.7265625,-61.640625
+"51",Logging Camp,false,WOD_LoggingCamp,,"927","130","106","68","92710613068",Wrothgarian Mountains,927.828125,-130.46875
+"52",Logging Camp,false,WOD_LoggingCamp,,"804","39","91","118","8049139118",Wrothgarian Mountains,804.7109375,-39.078125
+"53",Logging Camp,false,WOD_LoggingCamp,,"858","491","118","116","858118491116",Dragontail Mountains,858.921875,-491.09375
+"54",Logging Camp,false,WOD_LoggingCamp,,"615","13","87","55","615871355",Wrothgarian Mountains,615.6796875,-13.5703125
+"55",Logging Camp,false,WOD_LoggingCamp,,"828","434","38","88","8283843488",Ephesus,828.296875,-434.3125
+"56",Logging Camp,false,WOD_LoggingCamp,,"823","407","64","12","8236440712",Dragontail Mountains,823.5,-407.90625
+"57",Logging Camp,false,WOD_LoggingCamp,,"786","405","119","120","786119405120",Dragontail Mountains,786.9296875,-405.0625
+"58",Logging Camp,false,WOD_LoggingCamp,,"753","94","102","102","75310294102",Wrothgarian Mountains,753.796875,-94.203125
+"59",Logging Camp,false,WOD_LoggingCamp,,"729","44","64","4","729644404",Wrothgarian Mountains,729.5,-44.96875
+"60",Logging Camp,false,WOD_LoggingCamp,,"856","489","123","79","85612348979",Dragontail Mountains,856.9609375,-489.3828125
+"61",Logging Camp,false,WOD_LoggingCamp,,"675","100","13","23","6751310023",Koegria,675.1015625,-100.8203125
+"62",Logging Camp,false,WOD_LoggingCamp,,"879","113","69","120","87969113120",Wrothgarian Mountains,879.5390625,-113.0625
+"63",Logging Camp,false,WOD_LoggingCamp,,"799","101","119","41","79911910141",Wrothgarian Mountains,799.9296875,-101.6796875
+"64",Logging Camp,false,WOD_LoggingCamp,,"790","110","31","1","7903111001",Wrothgarian Mountains,790.2421875,-110.9921875
+"65",Logging Camp,false,WOD_LoggingCamp,,"942","435","63","83","9426343583",Dragontail Mountains,942.4921875,-435.3515625
+"66",Logging Camp,false,WOD_LoggingCamp,,"895","469","86","90","8958646990",Ephesus,895.671875,-469.296875
+"67",Logging Camp,false,WOD_LoggingCamp,,"699","58","63","27","699635827",Wrothgarian Mountains,699.4921875,-58.7890625
+"68",Logging Camp,false,WOD_LoggingCamp,,"750","79","73","28","750737928",Wrothgarian Mountains,750.5703125,-79.78125
+"69",Logging Camp,false,WOD_LoggingCamp,,"855","50","73","87","855735087",Wrothgarian Mountains,855.5703125,-50.3203125
+"70",Logging Camp,false,WOD_LoggingCamp,,"943","69","65","90","943656990",Wrothgarian Mountains,943.5078125,-69.296875
+"71",Logging Camp,false,WOD_LoggingCamp,,"778","467","124","65","77812446765",Dragontail Mountains,778.96875,-467.4921875
+"72",Logging Camp,false,WOD_LoggingCamp,,"622","363","50","96","6225036396",Dragontail Mountains,622.390625,-363.25
+"73",Logging Camp,false,WOD_LoggingCamp,,"752","9","35","50","752350950",Wrothgarian Mountains,752.2734375,-9.609375
+"74",Logging Camp,false,WOD_LoggingCamp,,"744","38","91","125","7449138125",Wrothgarian Mountains,744.7109375,-38.0234375
+"75",Logging Camp,false,WOD_LoggingCamp,,"625","326","68","86","6256832686",Dragontail Mountains,625.53125,-326.328125
+"76",Logging Camp,false,WOD_LoggingCamp,,"981","151","109","84","98110915184",Wrothgarian Mountains,981.8515625,-151.34375
+"77",Logging Camp,false,WOD_LoggingCamp,,"910","415","106","45","91010641545",Dragontail Mountains,910.828125,-415.6484375
+"78",Logging Camp,false,WOD_LoggingCamp,,"825","32","5","84","825053284",Wrothgarian Mountains,825.0390625,-32.34375
+"79",Logging Camp,false,WOD_LoggingCamp,,"700","58","27","74","700275874",Wrothgarian Mountains,700.2109375,-58.421875
+"80",Logging Camp,false,WOD_LoggingCamp,,"973","423","22","82","9732242382",Dragontail Mountains,973.171875,-423.359375
+"81",Logging Camp,false,WOD_LoggingCamp,,"666","391","28","35","6662839135",Dragontail Mountains,666.21875,-391.7265625
+"82",Logging Camp,false,WOD_LoggingCamp,,"682","400","90","27","6829040027",Dragontail Mountains,682.703125,-400.7890625
+"83",Logging Camp,false,WOD_LoggingCamp,,"655","383","123","1","65512338301",Dragontail Mountains,655.9609375,-383.9921875
+"84",Logging Camp,false,WOD_LoggingCamp,,"799","479","44","97","7994447997",Dragontail Mountains,799.34375,-479.2421875
+"85",Logging Camp,false,WOD_LoggingCamp,,"870","485","73","29","8707348529",Dragontail Mountains,870.5703125,-485.7734375
+"86",Logging Camp,false,WOD_LoggingCamp,,"926","62","61","74","926616274",Wrothgarian Mountains,926.4765625,-62.421875
+"87",Logging Camp,false,WOD_LoggingCamp,,"738","31","28","76","738283176",Wrothgarian Mountains,738.21875,-31.40625
+"88",Logging Camp,false,WOD_LoggingCamp,,"637","8","55","109","6375508109",Wrothgarian Mountains,637.4296875,-8.1484375
+"89",Logging Camp,false,WOD_LoggingCamp,,"880","66","60","56","880606656",Wrothgarian Mountains,880.46875,-66.5625
+"90",Logging Camp,false,WOD_LoggingCamp,,"768","472","101","26","76810147226",Dragontail Mountains,768.7890625,-472.796875
+"91",Logging Camp,false,WOD_LoggingCamp,,"812","462","122","45","81212246245",Dragontail Mountains,812.953125,-462.6484375
+"92",Logging Camp,false,WOD_LoggingCamp,,"671","359","40","74","6714035974",Dragontail Mountains,671.3125,-359.421875
+"93",Logging Camp,false,WOD_LoggingCamp,,"717","407","6","125","71706407125",Dragontail Mountains,717.046875,-407.0234375
+"94",Logging Camp,false,WOD_LoggingCamp,,"625","373","0","106","62500373106",Dragontail Mountains,625,-373.171875
+"95",Logging Camp,false,WOD_LoggingCamp,,"937","92","67","12","937679212",Wrothgarian Mountains,937.5234375,-92.90625
+"96",Logging Camp,false,WOD_LoggingCamp,,"635","29","28","87","635282987",Wrothgarian Mountains,635.21875,-29.3203125
+"97",Logging Camp,false,WOD_LoggingCamp,,"875","71","1","19","875017119",Wrothgarian Mountains,875.0078125,-71.8515625
+"98",Logging Camp,false,WOD_LoggingCamp,,"925","29","70","65","925702965",Wrothgarian Mountains,925.546875,-29.4921875
+"99",Logging Camp,false,WOD_LoggingCamp,,"714","421","104","84","71410442184",Dragontail Mountains,714.8125,-421.34375
+"100",Logging Camp,false,WOD_LoggingCamp,,"843","420","87","92","8438742092",Dragontail Mountains,843.6796875,-420.28125
+"101",Logging Camp,false,WOD_LoggingCamp,,"948","434","26","8","9482643408",Dragontail Mountains,948.203125,-434.9375
+"102",Logging Camp,false,WOD_LoggingCamp,,"899","81","116","127","89911681127",Wrothgarian Mountains,899.90625,-81.0078125
+"103",Logging Camp,false,WOD_LoggingCamp,,"636","320","38","12","6363832012",Dragontail Mountains,636.296875,-320.90625
+"104",Logging Camp,false,WOD_LoggingCamp,,"899","414","93","5","8999341405",Dragontail Mountains,899.7265625,-414.9609375
+"105",Logging Camp,false,WOD_LoggingCamp,,"809","17","54","4","809541704",Wrothgarian Mountains,809.421875,-17.96875
+"106",Logging Camp,false,WOD_LoggingCamp,,"774","435","56","97","7745643597",Dragontail Mountains,774.4375,-435.2421875
+"107",Logging Camp,false,WOD_LoggingCamp,,"772","126","50","78","7725012678",Wrothgarian Mountains,772.390625,-126.390625
+"108",Logging Camp,false,WOD_LoggingCamp,,"871","450","54","18","8715445018",Ephesus,871.421875,-450.859375
+"109",Logging Camp,false,WOD_LoggingCamp,,"802","483","37","59","8023748359",Dragontail Mountains,802.2890625,-483.5390625
+"110",Logging Camp,false,WOD_LoggingCamp,,"827","383","54","70","8275438370",Dragontail Mountains,827.421875,-383.453125
+"111",Logging Camp,false,WOD_LoggingCamp,,"773","381","87","41","7738738141",Dragontail Mountains,773.6796875,-381.6796875
+"112",Logging Camp,false,WOD_LoggingCamp,,"891","116","99","40","8919911640",Wrothgarian Mountains,891.7734375,-116.6875
+"113",Logging Camp,false,WOD_LoggingCamp,,"641","30","113","56","6411133056",Wrothgarian Mountains,641.8828125,-30.5625
+"114",Logging Camp,false,WOD_LoggingCamp,,"837","452","28","20","8372845220",Ephesus,837.21875,-452.84375
+"115",Logging Camp,false,WOD_LoggingCamp,,"766","395","116","72","76611639572",Dragontail Mountains,766.90625,-395.4375
+"116",Logging Camp,false,WOD_LoggingCamp,,"765","126","84","14","7658412614",Wrothgarian Mountains,765.65625,-126.890625
+"117",Logging Camp,false,WOD_LoggingCamp,,"904","417","91","32","9049141732",Dragontail Mountains,904.7109375,-417.75
+"118",Logging Camp,false,WOD_LoggingCamp,,"759","472","17","41","7591747241",Dragontail Mountains,759.1328125,-472.6796875
+"119",Logging Camp,false,WOD_LoggingCamp,,"714","377","122","64","71412237764",Dragontail Mountains,714.953125,-377.5
+"120",Logging Camp,false,WOD_LoggingCamp,,"794","400","105","8","79410540008",Dragontail Mountains,794.8203125,-400.9375
+"121",Logging Camp,false,WOD_LoggingCamp,,"974","476","55","8","9745547608",Dragontail Mountains,974.4296875,-476.9375
+"122",Logging Camp,false,WOD_LoggingCamp,,"927","130","33","24","9273313024",Wrothgarian Mountains,927.2578125,-130.8125
+"123",Logging Camp,false,WOD_LoggingCamp,,"808","468","109","54","80810946854",Dragontail Mountains,808.8515625,-468.578125
+"124",Logging Camp,false,WOD_LoggingCamp,,"752","487","96","83","7529648783",Dragontail Mountains,752.75,-487.3515625
+"125",Logging Camp,false,WOD_LoggingCamp,,"941","144","64","35","9416414435",Wrothgarian Mountains,941.5,-144.7265625
+"126",Logging Camp,false,WOD_LoggingCamp,,"800","20","92","44","800922044",Wrothgarian Mountains,800.71875,-20.65625
+"127",Logging Camp,false,WOD_LoggingCamp,,"971","132","36","72","9713613272",Wrothgarian Mountains,971.28125,-132.4375
+"128",Logging Camp,false,WOD_LoggingCamp,,"612","332","95","61","6129533261",Dragontail Mountains,612.7421875,-332.5234375
+"129",Logging Camp,false,WOD_LoggingCamp,,"675","93","5","10","675059310",Koegria,675.0390625,-93.921875
+"130",Logging Camp,false,WOD_LoggingCamp,,"658","84","78","86","658788486",Koegria,658.609375,-84.328125
+"131",Logging Camp,false,WOD_LoggingCamp,,"929","88","17","97","929178897",Wrothgarian Mountains,929.1328125,-88.2421875
+"132",Logging Camp,false,WOD_LoggingCamp,,"907","458","123","32","90712345832",Ephesus,907.9609375,-458.75
+"133",Logging Camp,false,WOD_LoggingCamp,,"706","358","122","35","70612235835",Dragontail Mountains,706.953125,-358.7265625
+"134",Logging Camp,false,WOD_LoggingCamp,,"570","95","82","106","5708295106",Kambria,570.640625,-95.171875
+"135",Logging Camp,false,WOD_LoggingCamp,,"860","430","55","3","8605543003",Ephesus,860.4296875,-430.9765625
+"136",Logging Camp,false,WOD_LoggingCamp,,"645","62","26","118","6452662118",Kambria,645.203125,-62.078125
+"137",Logging Camp,false,WOD_LoggingCamp,,"744","392","8","72","7440839272",Dragontail Mountains,744.0625,-392.4375
+"138",Logging Camp,false,WOD_LoggingCamp,,"977","427","109","13","97710942713",Dragontail Mountains,977.8515625,-427.8984375
+"139",Logging Camp,false,WOD_LoggingCamp,,"704","82","8","50","704088250",Koegria,704.0625,-82.609375
+"140",Logging Camp,false,WOD_LoggingCamp,,"842","113","119","55","84211911355",Wrothgarian Mountains,842.9296875,-113.5703125
+"141",Logging Camp,false,WOD_LoggingCamp,,"875","104","69","18","8756910418",Wrothgarian Mountains,875.5390625,-104.859375
+"142",Logging Camp,false,WOD_LoggingCamp,,"975","424","115","15","97511542415",Dragontail Mountains,975.8984375,-424.8828125
+"143",Logging Camp,false,WOD_LoggingCamp,,"876","494","110","86","87611049486",Dragontail Mountains,876.859375,-494.328125
+"144",Logging Camp,false,WOD_LoggingCamp,,"747","62","33","59","747336259",Wrothgarian Mountains,747.2578125,-62.5390625
+"145",Logging Camp,false,WOD_LoggingCamp,,"708","203","93","31","7089320331",Isle of Balfiera,708.7265625,-203.7578125
+"146",Logging Camp,false,WOD_LoggingCamp,,"677","204","60","45","6776020445",Isle of Balfiera,677.46875,-204.6484375
+"148",Logging Camp,false,WOD_LoggingCamp,,"632","19","47","33","632471933",Wrothgarian Mountains,632.3671875,-19.7421875
+"149",Logging Camp,false,WOD_LoggingCamp,,"656","35","31","24","656313524",Wrothgarian Mountains,656.2421875,-35.8125
+"150",Logging Camp,false,WOD_LoggingCamp,,"675","28","97","33","675972833",Wrothgarian Mountains,675.7578125,-28.7421875
+"151",Logging Camp,false,WOD_LoggingCamp,,"699","48","46","119","6994648119",Wrothgarian Mountains,699.359375,-48.0703125
+"152",Logging Camp,false,WOD_LoggingCamp,,"785","57","88","83","785885783",Wrothgarian Mountains,785.6875,-57.3515625
+"153",Logging Camp,false,WOD_LoggingCamp,,"788","80","95","102","7889580102",Wrothgarian Mountains,788.7421875,-80.203125
+"154",Logging Camp,false,WOD_LoggingCamp,,"600","28","72","87","600722887",Wrothgarian Mountains,600.5625,-28.3203125
+"155",Logging Camp,false,WOD_LoggingCamp,,"598","43","122","87","5981224387",Kambria,598.953125,-43.3203125
+"156",Logging Camp,false,WOD_LoggingCamp,,"622","60","70","128","6227060128",Kambria,622.546875,-60
+"157",Logging Camp,false,WOD_LoggingCamp,,"633","77","77","4","633777704",Kambria,633.6015625,-77.96875
+"158",Logging Camp,false,WOD_LoggingCamp,,"688","74","101","90","6881017490",Koegria,688.7890625,-74.296875
