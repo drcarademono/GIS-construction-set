@@ -1,10 +1,11 @@
 ./xsv partition region region Bandits.csv --filename {}_Bandits.csv
 ./xsv partition region region Bandits_Roadside.csv --filename {}_Bandits_Roadside.csv
 ./xsv partition region region BannerPosts.csv --filename {}_BannerPosts.csv
-./xsv partition region region BorderTowers.csv --filename {}_Border_Towers.csv
+./xsv partition region region BorderTowers.csv --filename {}_BorderTowers.csv
 ./xsv partition region region Guardtowers_Roadside.csv --filename {}_Guardtowers_Roadside.csv
 ./xsv partition region region LoggingCamps.csv --filename {}_LoggingCamps.csv
 ./xsv partition region region Mountains.csv --filename {}_Mountains.csv
+./xsv partition region region Mountains_Desert.csv --filename {}_Mountains_Desert.csv
 ./xsv partition region region Mountains_Small.csv --filename {}_Mountains_Small.csv
 ./xsv partition region region OrcCamps.csv --filename {}_OrcCamps.csv
 ./xsv partition region region Rocks.csv --filename {}_Rocks.csv
