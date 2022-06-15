@@ -1,4 +1,0 @@
-fid,name,type,prefab,rotYaxis,worldX,worldY,terrainX,terrainY,locationID,region,gisX,gisY,climate,sink
-324,Desert Mountain,1,WOD_Mountain_Desert_02,102,429,397,42,100,42942397100,Sentinel,429.328125,-397.21875,8,1
-836,Desert Mountain,1,WOD_Mountain_Desert_03,15,435,402,15,33,4351540233,Sentinel,435.1171875,-402.7421875,8,1
-896,Desert Mountain,1,WOD_Mountain_Desert_07,-20,424,393,40,81,4244039381,Sentinel,424.3125,-393.3671875,8,1
