@@ -11,7 +11,7 @@ df['name'] = 'Rocks'
 df['type'] = 1
 
 # Define the possible values for the 'prefab' column, ensuring '10' is formatted correctly
-prefab_options = [f'WOD_Rocks_Round_Gray_Small_{str(i).zfill(2)}' for i in range(1, 11)]
+prefab_options = [f'WOD_Rocks_Round_Small_{str(i).zfill(2)}' for i in range(1, 11)]
 
 # Randomly fill the 'prefab' column
 df['prefab'] = [random.choice(prefab_options) for _ in range(len(df))]
