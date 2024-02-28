@@ -22,11 +22,11 @@ if 'climate' in df.columns and 'prefab' in df.columns:
     
     # Conditions based on 'climate' values
     condition_roundspiky = (df['climate'].isin([2, 4, 5, 9])) & (df['prefab'].str.contains('Round'))
-    condition_flat = (df['climate'] == 8) & (df['prefab'].str.contains('round'))
+    condition_flat = (df['climate'] == 8) & (df['prefab'].str.contains('Round'))
     
     # Apply transformations based on 'climate' conditions
     df.loc[condition_roundspiky, 'prefab'] = df.loc[condition_roundspiky, 'prefab'].str.replace('Round', 'RoundSpiky')
-    df.loc[condition_flat, 'prefab'] = df.loc[condition_flat, 'prefab'].str.replace('round', 'Flat')
+    df.loc[condition_flat, 'prefab'] = df.loc[condition_flat, 'prefab'].str.replace('Round', 'Flat')
 
 # Additional condition based on 'region'
 if 'region' in df.columns:
@@ -34,7 +34,7 @@ if 'region' in df.columns:
     df.loc[condition_roundspiky2, 'prefab'] = df.loc[condition_roundspiky2, 'prefab'].str.replace('Round', 'RoundSpiky')
 
 # Save the modified DataFrame to a new CSV file
-df.to_csv('WOD_Rocks_modified.csv', index=False)
+df.to_csv('Rocks.csv', index=False)
 
-print('CSV file has been modified and saved as WOD_Rocks_modified.csv.')
+print('CSV file has been modified and saved as Rocks.csv.')
 

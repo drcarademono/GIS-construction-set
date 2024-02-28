@@ -23,7 +23,7 @@ for csv_file in csv_files:
 merged_df = pd.concat(dfs, ignore_index=True)
 
 # Write the concatenated dataframe to a new CSV file
-merged_df.to_csv('merged_csv_files.csv', index=False)
+merged_df.to_csv('WOD_Rocks.csv', index=False)
 
 print(f'Merged {len(csv_files)} CSV files into merged_csvs.csv')
 
